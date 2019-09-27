@@ -1,0 +1,15 @@
+table{
+  border-collapse: collapse;
+  box-shadow: 10px 10px;
+  text-shadow:2px 2px 1px white;
+  
+}
+thead{
+background-color:blue;
+font-size:50px
+}
+ td{
+	background-color: lightBlue;
+border: 1px solid black;
+padding: 10px;
+}
